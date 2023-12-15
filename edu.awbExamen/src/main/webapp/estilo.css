@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.titulo {
+	text-align: center;
+	background-color: gold;
+
+}
+
+.rectangulo {
+	width: 100%;
+	size: 400px;
+	text-align: center;
+}
+
+.titulo2 {
+	color: green;
+
+}
+
+.boton {
+	color: black;
+	border: black;
+	border-width: 100px;
+	text-align: center;
+
+}
